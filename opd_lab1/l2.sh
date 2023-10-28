@@ -1,6 +1,6 @@
 cd lab0
 
-chmod 713 azurill4/sentret
+chmod 313 azurill4/sentret
 chmod 361 azurill4/snorunt
 chmod 524 azurill4/carracosta
 chmod 444 azurill4/skiploom
