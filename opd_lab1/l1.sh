@@ -1,5 +1,6 @@
-chmod -R 777 lab0 2> /dev/null
-rm -r lab0 2> /dev/null
+chmod -R 777 lab0 2>/dev/null
+rm -r lab0 2>/dev/null
+
 mkdir lab0
 cd lab0
 mkdir azurill4 klang9 xatu8
